@@ -1,0 +1,34 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Application entry point",
+  "scripts": {
+    "start_server": "nodemon server.js"
+  },
+  "author": "Zan, Rajko, Link",
+  "license": "ISC",
+  "dependencies": {
+    "async": "3.2.0",
+    "bcryptjs": "2.4.3",
+    "body-parser": "1.19.0",
+    "connect": "3.7.0",
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "fs": "0.0.2",
+    "http-server": "0.12.3",
+    "httpntlm": "1.7.6",
+    "jsonwebtoken": "8.5.1",
+    "lodash": "4.17.20",
+    "log4js": "6.3.0",
+    "mysql": "2.18.1",
+    "node-cron": "2.0.3",
+    "nodemon": "2.0.4",
+    "path": "0.12.7",
+    "q": "1.5.1",
+    "request": "2.88.2",
+    "scramjet": "4.35.8",
+    "sequelize": "6.3.4",
+    "validator": "13.1.1",
+    "ws": "7.3.1",
+    "yargs": "15.4.1"
+  }

@@ -1,0 +1,5 @@
+/log/
+/server/node_modules/
+/front/node_modules/
+/deploy/
+/.idea/
